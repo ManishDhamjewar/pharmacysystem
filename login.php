@@ -22,7 +22,7 @@
 
       //alert(xhttp.responseText);
       if(xhttp.responseText == "")
-        window.location.href = "http://localhost/Pharmacy-Management/index.html";
+        window.location.href = "http://localhost/Pharmacy-Management/login.php";
       if(xhttp.responseText == "true")
         window.location.href = "http://localhost/Pharmacy-Management/home.php";
 
