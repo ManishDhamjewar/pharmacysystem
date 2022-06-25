@@ -13,6 +13,14 @@ Health
 ### Project Title :
 Pharmacy Management System
 
+### Problem Statement/Opportunity :
+
+### Project Description :
+
+### Azure Technology :
+
+### Project Link(URL) :
+
 
 
 
