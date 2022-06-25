@@ -18,6 +18,7 @@ Pharmacy Management System
 ### Project Description :
 
 ### Azure Technology :
+Azure App Service
 
 ### Project Link(URL) :
 
