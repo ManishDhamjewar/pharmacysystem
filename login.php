@@ -35,6 +35,10 @@
         <div class="card-body">
           <form name="login-form" class="login-form" action="home.php" method="post" onsubmit="return validateCredentials();">
             <div class="logo">
+              <h1 class="logo-caption font-weight-bolder"><span class="tweak">P</span>harmacy <span class="tweak">M</span>anagement <span class="tweak">S</span>ystem</h1>
+        		</div> <!-- logo class -->
+		  
+		  <div class="logo">
         			<img src="images/prof.jpg" class="profile"/>
         			<h1 class="logo-caption"><span class="tweak">L</span>ogin</h1>
         		</div> <!-- logo class -->
