@@ -22,7 +22,7 @@
 
       //alert(xhttp.responseText);
       if(xhttp.responseText == "")
-        window.location.href = "https://pharmacysystem.azurewebsites.net/index.html";
+        window.location.href = "https://pharmacysystem.azurewebsites.net/login.php";
       if(xhttp.responseText == "true")
         window.location.href = "https://pharmacysystem.azurewebsites.net/home.php";
 
