@@ -40,15 +40,15 @@ Features:
 ### Azure Technology :
 Azure App Service, Web App
 
-1. Azure App Service
-Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite language, be it .NET, .NET Core, Java, Ruby, Node.js, PHP, or Python. Applications run and scale with ease on both Windows and Linux-based environments.
+1. Azure App Service<br>
+   Azure App Service is an HTTP-based service for hosting web applications, REST APIs, and mobile back ends. You can develop in your favorite language, be it .NET,.NET Core, Java, Ruby, Node.js, PHP, or Python. Applications run and scale with ease on both Windows and Linux-based environments.
 
-App Service not only adds the power of Microsoft Azure to your application, such as security, load balancing, autoscaling, and automated management. You can also take advantage of its DevOps capabilities, such as continuous deployment from Azure DevOps, GitHub, Docker Hub, and other sources, package management, staging environments, custom domain, and TLS/SSL certificates.
+   App Service not only adds the power of Microsoft Azure to your application, such as security, load balancing, autoscaling, and automated management. You can also  take advantage of its DevOps capabilities, such as continuous deployment from Azure DevOps, GitHub, Docker Hub, and other sources, package management, staging environments, custom domain, and TLS/SSL certificates.
 
-With App Service, you pay for the Azure compute resources you use. The compute resources you use are determined by the App Service plan that you run your apps on.
+   With App Service, you pay for the Azure compute resources you use. The compute resources you use are determined by the App Service plan that you run your apps on.
 
-2. Web App
-Azure Web App service lets us quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform. It helps us to meet rigorous performance, scalability, security, and compliance requirements while using a fully managed platform to perform infrastructure maintenance.
+2. Web App<br>
+   Azure Web App service lets us quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform. It helps us to meet rigorous performance, scalability, security, and compliance requirements while using a fully managed platform to perform infrastructure maintenance.
 <br><br>
 
 ### Project Link(URL) :
