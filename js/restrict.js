@@ -8,7 +8,7 @@ xhttp.send();
 
 //alert(xhttp.responseText);
 if(xhttp.responseText == "")
-  window.location.href = "https://pharmacysystem.azurewebsites.net/login.php";
+  window.location.href = "https://pharmacysystem.azurewebsites.net/index.php";
 
-if(xhttp.responseText == "false")
-  window.location.href = "https://pharmacysystem.azurewebsites.net/login.php";
+if(xhttp.responseText == "true")
+  window.location.href = "https://pharmacysystem.azurewebsites.net/home.php";
