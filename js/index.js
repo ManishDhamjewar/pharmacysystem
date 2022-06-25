@@ -87,7 +87,7 @@ function isSetupDone() {
   xhttp.open("GET", "php/validateCredentials.php?action=is_setup_done", false);
   xhttp.send();
   if(xhttp.responseText == "true")
-    window.location.href = "https://pharmacysystem.azurewebsites.net/login.php";
+    window.location.href = "https://pharmacysystem.azurewebsites.net/index.php";
 }
 
 function displayForgotPasswordForm() {
