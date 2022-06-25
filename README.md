@@ -51,7 +51,10 @@ Azure App Service, Web App
    Azure Web App service lets us quickly build, deploy, and scale enterprise-grade web, mobile, and API apps running on any platform. It helps us to meet rigorous performance, scalability, security, and compliance requirements while using a fully managed platform to perform infrastructure maintenance.
 <br><br>
 
-### Project Link(URL) :
+### Screenshots :
+
+
+### Project Link(URL) : https://pharmacysystem.azurewebsites.net/
 
 
 
