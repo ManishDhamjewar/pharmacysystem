@@ -12,9 +12,11 @@ Health
 
 ### Project Title :
 Pharmacy Management System
+<br><br>
 
 ### Problem Statement/Opportunity :
 Pharmacy management has kept paper record in filing cabinets. Managing a very large pharmacy with records on papers will be tedious and difficult to keep track of inventories with regards to the drugs in the store, expiry date, quantity of drugs available based on the categories and their functions. The pharmacist has to order drugs to replenish the already diminishing stock. In addition, ordering of drugs is being carried out manually. Significant amount of time is allocated for writing the order as the pharmacist needs to go through the stock balance and make rough estimate of the amount to order based on figures. The pharmacist has to order drugs to replenish the already diminishing stock. In addition, ordering of drugs is being carried out manually. The set-up of this pharmacy management system will ensure availability of sufficient quantity of drugs and consumable materials for the patient. 
+<br><br>
 
 ### Project Description :
 Pharmacy management system is a management system that is designed to improve accuracy and to enhance safety and efficiency in the pharmaceutical store. This application can be used in any pharmaceutical shops having a database to maintain. It is a computer based system which helps the Pharmacist to improve inventory management, cost, medical safety etc. The software used can generate reports, as per the user’s requirements.
@@ -33,9 +35,11 @@ Features:
 * View all Sales, Add Sale, Edit Sale, Delete Sale
 * See all Purchases, Add Purchase, Edit Purchase, Delete Purchase
 * View Sales and purchase report
+<br><br>
 
 ### Azure Technology :
-Azure App Service
+Azure App Service, Web App
+<br><br>
 
 ### Project Link(URL) :
 
