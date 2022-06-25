@@ -6,7 +6,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap, PHP
 IDE: VS-Code
 <br><br>
 
-## Industry :
+### Industry :
 Health
 <br><br>
 
