@@ -17,7 +17,7 @@
   <body>
 
   <h1 align="center">You have been Logout Successfully</h1>
-  <center><a href="login.php">Go to login page</a><center>
+  <center><a href="index.php">Go to login page</a><center>
 
   </body>
 </html>
